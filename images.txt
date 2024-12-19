@@ -1,3 +1,4 @@
 openremote/manager:latest
 openremote/keycloak:latest
 openremote/postgresql:latest
+openremote/proxy:latest
