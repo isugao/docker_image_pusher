@@ -2,3 +2,4 @@ openremote/manager:latest
 openremote/keycloak:latest
 openremote/postgresql:latest
 openremote/proxy:latest
+htcfive/metrics-server-amd64:latest
