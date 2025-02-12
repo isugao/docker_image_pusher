@@ -6,3 +6,4 @@ htcfive/metrics-server-amd64:latest
 node:18.20
 bitnami/node:18.20.0
 bitnami/node:22.7.0
+gitlab/gitlab-runner:alpine3.18-bleeding
